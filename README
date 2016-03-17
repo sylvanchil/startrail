@@ -1,0 +1,17 @@
+/************************************
+*    name: cong qiu                 *
+*    email: congq@g.clemson.edu     *
+*    date: Mar, 16th, 2016          *
+*************************************/
+
+I.Description:
+	Composite a startrail photo with multiply photo.
+	
+II.Usage:
+a)make
+	make
+b)run
+	./startrail [foldername] [outputfilename.jpg]
+
+
+
