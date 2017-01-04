@@ -5,7 +5,7 @@
 *************************************/
 
 I.Description:
-	Composite a startrail photo with multiple photos.
+	It composite multiple photos to make a startrail image.
 	
 II.Usage:
 a)make
